@@ -1,7 +1,13 @@
 
+import React from 'react'
 
-const Login = test(username, password) = {
-
-    //console.log("Test");
-
+const route = () => {
+  return (
+    <div>
+      
+    </div>
+  )
 }
+
+export default route;
+
